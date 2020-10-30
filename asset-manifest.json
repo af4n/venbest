@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/af4n.github.io/venbest/static/css/main.e0f52e1b.chunk.css",
+    "main.js": "/af4n.github.io/venbest/static/js/main.ba62c629.chunk.js",
+    "main.js.map": "/af4n.github.io/venbest/static/js/main.ba62c629.chunk.js.map",
+    "runtime-main.js": "/af4n.github.io/venbest/static/js/runtime-main.df5e2b7e.js",
+    "runtime-main.js.map": "/af4n.github.io/venbest/static/js/runtime-main.df5e2b7e.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/af4n.github.io/venbest/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5c09a9f8.chunk.js": "/af4n.github.io/venbest/static/js/2.5c09a9f8.chunk.js",
+    "static/js/2.5c09a9f8.chunk.js.map": "/af4n.github.io/venbest/static/js/2.5c09a9f8.chunk.js.map",
+    "static/js/3.9d9b6185.chunk.js": "/af4n.github.io/venbest/static/js/3.9d9b6185.chunk.js",
+    "static/js/3.9d9b6185.chunk.js.map": "/af4n.github.io/venbest/static/js/3.9d9b6185.chunk.js.map",
+    "index.html": "/af4n.github.io/venbest/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/af4n.github.io/venbest/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.e0f52e1b.chunk.css.map": "/af4n.github.io/venbest/static/css/main.e0f52e1b.chunk.css.map",
+    "static/js/2.5c09a9f8.chunk.js.LICENSE.txt": "/af4n.github.io/venbest/static/js/2.5c09a9f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df5e2b7e.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5c09a9f8.chunk.js",
+    "static/css/main.e0f52e1b.chunk.css",
+    "static/js/main.ba62c629.chunk.js"
+  ]
+}
