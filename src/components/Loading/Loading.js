@@ -6,7 +6,7 @@ const Loading = () => {
     <div className="lds-ellipsis">
       <div></div>
       <div></div>
-      <div></div>
+      <div>Vetka-2</div>
       <div></div>
     </div>
   )
