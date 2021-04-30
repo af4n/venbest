@@ -7,7 +7,7 @@ const PersonTableRow = ({item}) => {
       <td>{item.lastname}</td>
       <td>{item.age}</td>
       <td>{item.sex}</td>
-      <div>Vetka-3</div>
+      <div>Vetka-3.2</div>
     </tr>
   )
 }

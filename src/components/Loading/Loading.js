@@ -4,7 +4,7 @@ import "./Loading.css"
 const Loading = () => {
   return (
     <div className="lds-ellipsis">
-      <div>vetka-1</div>
+      <div>vetka-1 la-la-la</div>
       <div></div>
       <div></div>
       <div></div>
